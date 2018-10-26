@@ -1,0 +1,5 @@
+projectKey=Crazy
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/Crazy
+ceTaskId=AVxiZZft9jkj93XtSx30
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AVxiZZft9jkj93XtSx30
